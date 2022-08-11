@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @egeguvenirdev
 - 👀 I’m interested in Hyper-Casual game development.
-- 🌱 I’m currently improving my Unity & C# skills. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working and improving my Unity & C# skills. 
 - 📫 How to reach me https://www.linkedin.com/in/egeguvenirdev/ or https://twitter.com/eguvnr
 
 <!---
