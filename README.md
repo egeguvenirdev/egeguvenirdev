@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @egeguvenirdev
-- 👀 I’m interested in Hyper-Casual game development for 3 years.
+- 👀 After 3 years of focusing on Hyper-Casual game development, I am now continuing with casual games at Digitoy Games.
 - 🌱 I’m currently working and improving my Unity & C# skills. 
-- 📫 How to reach me https://www.linkedin.com/in/egeguvenirdev/ or https://twitter.com/eguvnr
+- 📫 How to reach me: https://www.linkedin.com/in/egeguvenirdev/ or https://twitter.com/eguvnr
